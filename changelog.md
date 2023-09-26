@@ -1,8 +1,13 @@
-3.5.10.3
-========
+3.5.10.4
 - @RikvanToor
     - [#373](https://github.com/bitemyapp/esqueleto/pull/373)
         - Fix name clashes when using CTEs multiple times
+
+3.5.10.3
+========
+- @ttuegel
+    - [#377](https://github.com/bitemyapp/esqueleto/pull/377)
+        - Fix Postgres syntax for `noWait`
 
 3.5.10.2
 ========
